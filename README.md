@@ -116,7 +116,7 @@ inquirer
 
 1. Run the script using Node.js:
    ```bash
-   node index.js
+   node script.js
    ```
 2. Paste your URL into the prompt when asked.
 
